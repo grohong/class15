@@ -1,1 +1,1 @@
-console.log("my-note app.js");var storage=window.localStorage,memo=document.getElementById("memo"),btn_savenote=document.getElementById("btn-savenote"),btn_savenote_file=document.getElementById("btn-savenote-file"),btn_newnote=document.getElementById("btn-newnote"),btn_fullscreen=document.getElementById("btn-fullscreen"),btn_about=document.getElementById("btn-about"),about=document.getElementById("about");
+console.log("my-note app.js"),$(function(){console.log("start page")});
