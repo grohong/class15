@@ -9,11 +9,11 @@ $('.btn-newnote').click(function(){
   console.log('click new note');
 });
 
-$('.btn-download').click(function() {
+$('.btn-savenote').click(function() {
   console.log('click download');
 })
 
-$('.btn-savenote').click(function() {
+$('.btn-savenote-file').click(function() {
   console.log('click save note');
 })
 
@@ -21,6 +21,6 @@ $('.btn-fullscreen').click(function() {
   console.log('click fullscreen note');
 })
 
-$('#about').click(function() {
+$('.btn-about').click(function() {
   console.log('click about wee-note');
 })
