@@ -1,1 +1,1 @@
-console.log("my-note app.js"),$(function(){console.log("start page")});
+console.log("my-note app.js"),$(function(){console.log("start page")}),$(".btn-newnote").click(function(){console.log("click new note")});
